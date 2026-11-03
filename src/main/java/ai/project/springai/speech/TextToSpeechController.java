@@ -1,4 +1,4 @@
-package com.bharath.springai.speech;
+package ai.project.springai.speech;
 
 import java.io.IOException;
 
@@ -8,7 +8,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.bharath.springai.services.OpenAiService;
+import ai.project.springai.services.OpenAiService;
 
 @Controller
 public class TextToSpeechController {

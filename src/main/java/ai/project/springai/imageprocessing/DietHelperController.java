@@ -1,4 +1,4 @@
-package com.bharath.springai.imageprocessing;
+package ai.project.springai.imageprocessing;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.bharath.springai.services.OpenAiService;
+import ai.project.springai.services.OpenAiService;
 
 @Controller
 public class DietHelperController {

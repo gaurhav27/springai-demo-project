@@ -1,4 +1,4 @@
-package com.bharath.springai.services;
+package ai.project.springai.services;
 
 import org.springframework.stereotype.Service;
 

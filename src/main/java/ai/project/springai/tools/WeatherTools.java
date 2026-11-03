@@ -1,4 +1,4 @@
-package com.bharath.springai.tools;
+package ai.project.springai.tools;
 
 import org.springframework.ai.tool.annotation.Tool;
 
